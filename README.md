@@ -22,4 +22,7 @@ O que são variáveis e como manipulá-las através de operadores aritméticos e
 
 ![image](https://user-images.githubusercontent.com/78243487/159725818-39496276-d6da-4fde-ae35-85969111bfad.png)
 
+# Operadores Aritméticos
+
+![image](https://user-images.githubusercontent.com/78243487/160837708-0bc357f2-dfa7-4a72-a884-6bdbdfd2dcee.png)
 
