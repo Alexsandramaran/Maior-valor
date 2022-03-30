@@ -51,7 +51,7 @@ Procura um valor na lista
 ![image](https://user-images.githubusercontent.com/78243487/160848257-aaf5de45-b303-446f-b3b7-f57af67791e2.png)
 
 # Multiplicar a Lista
-
+Multiplica os valores de uma Lista
 ![image](https://user-images.githubusercontent.com/78243487/160850284-9c4225f9-dc42-4acf-9f0f-5c326ee95075.png)
 
 
