@@ -40,6 +40,12 @@ Como organizar os dados em uma lista
 
 ![image](https://user-images.githubusercontent.com/78243487/160844096-752ae8a8-de54-4e05-8f21-3707b117912c.png)
 
+# Menor Valor da Lista
+Traz por ordem alfabética 
+
+![image](https://user-images.githubusercontent.com/78243487/160847068-441a61c7-4904-4fa8-b74a-691613e8a0f0.png)
+
+
 
 
 
