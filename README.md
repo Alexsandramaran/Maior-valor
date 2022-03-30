@@ -45,6 +45,12 @@ Traz por ordem alfabética
 
 ![image](https://user-images.githubusercontent.com/78243487/160847068-441a61c7-4904-4fa8-b74a-691613e8a0f0.png)
 
+# If and Else em Lista
+Procura um valor na lista
+
+![image](https://user-images.githubusercontent.com/78243487/160848257-aaf5de45-b303-446f-b3b7-f57af67791e2.png)
+
+
 
 
 
