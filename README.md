@@ -26,3 +26,8 @@ O que são variáveis e como manipulá-las através de operadores aritméticos e
 
 ![image](https://user-images.githubusercontent.com/78243487/160837708-0bc357f2-dfa7-4a72-a884-6bdbdfd2dcee.png)
 
+# Número Primo
+
+![image](https://user-images.githubusercontent.com/78243487/160840480-a1dfe035-e345-4134-9033-593a3b3e0f38.png)
+
+
