@@ -35,5 +35,11 @@ Como criar laços de repetição em Python
 
 ![image](https://user-images.githubusercontent.com/78243487/160842394-21ab86df-c04f-462c-ab08-fe505ca23232.png)
 
+# Soma Lista
+Como organizar os dados em uma lista
+
+![image](https://user-images.githubusercontent.com/78243487/160844096-752ae8a8-de54-4e05-8f21-3707b117912c.png)
+
+
 
 
