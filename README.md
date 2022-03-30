@@ -30,4 +30,10 @@ O que são variáveis e como manipulá-las através de operadores aritméticos e
 
 ![image](https://user-images.githubusercontent.com/78243487/160840480-a1dfe035-e345-4134-9033-593a3b3e0f38.png)
 
+# Laços de Repetição
+Como criar laços de repetição em Python
+
+![image](https://user-images.githubusercontent.com/78243487/160842394-21ab86df-c04f-462c-ab08-fe505ca23232.png)
+
+
 
