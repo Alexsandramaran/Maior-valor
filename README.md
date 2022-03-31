@@ -95,6 +95,11 @@ Converte
 
 ![image](https://user-images.githubusercontent.com/78243487/161059176-0de941f6-0af0-4a04-9689-a4ada617053a.png)
 
+# Conjunto Adicionar e Excluir
+Adicionar e excluir elemento do conjunto. Para o Conjunto iremos usar {}
+
+![image](https://user-images.githubusercontent.com/78243487/161064383-0846f864-8ea5-4f89-bbf0-ba09a9433a1d.png)
+
 
 
 
