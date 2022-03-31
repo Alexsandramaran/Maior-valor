@@ -64,6 +64,11 @@ Retira o último elemento da lista
 
 ![image](https://user-images.githubusercontent.com/78243487/161050118-5d8979c6-4c3a-4a25-a866-56bbbbc229d7.png)
 
+# Ordenar Lista
+Coloca na ordem
+
+![image](https://user-images.githubusercontent.com/78243487/161051260-618ddb62-c351-4cd3-8fc6-4717f49863ce.png)
+
 
 
 
