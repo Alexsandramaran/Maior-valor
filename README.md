@@ -100,6 +100,12 @@ Adicionar e excluir elemento do conjunto. Para o Conjunto iremos usar {}
 
 ![image](https://user-images.githubusercontent.com/78243487/161064383-0846f864-8ea5-4f89-bbf0-ba09a9433a1d.png)
 
+# Conjunto União
+Junta os conjuntos em um só e não repete os elementos repetidos
+
+![image](https://user-images.githubusercontent.com/78243487/161065066-49478c94-1191-4996-b497-e0a36e66d8c6.png)
+
+
 
 
 
