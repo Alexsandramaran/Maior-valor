@@ -105,7 +105,10 @@ Junta os conjuntos em um só e retira a duplicidade
 
 ![image](https://user-images.githubusercontent.com/78243487/161065066-49478c94-1191-4996-b497-e0a36e66d8c6.png)
 
+# Conjunto Intersecção
+Junta apenas os elementos que tem nos dois conjuntos
 
+![image](https://user-images.githubusercontent.com/78243487/161068246-bec6a1c6-b3e1-481f-88c0-dea326b4fe7c.png)
 
 
 
