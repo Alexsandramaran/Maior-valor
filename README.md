@@ -85,6 +85,12 @@ Vai me dizer quantos elementos tem na lista
 
 ![image](https://user-images.githubusercontent.com/78243487/161055567-17e1b326-d166-4580-bdb1-a48f6f558475.png)
 
+# Converter Lista para Tupla
+Converte
+
+![image](https://user-images.githubusercontent.com/78243487/161056699-ccaa03a9-77de-4acd-90fa-eb3aa15ac660.png)
+
+
 
 
 
