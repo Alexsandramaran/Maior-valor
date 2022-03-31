@@ -74,6 +74,16 @@ Coloca na ordem descrescente
 
 ![image](https://user-images.githubusercontent.com/78243487/161052732-581cd0f5-a863-4b06-82b7-85e2508e35de.png)
 
+# Tupla
+Não consigo alterar um objeto, e é colocado em ()
+É imultável
+
+![image](https://user-images.githubusercontent.com/78243487/161055262-badad1a6-4b2a-45f1-9b12-3a81788188a2.png)
+
+# LEN
+Vai me dizer quantos elementos tem na lista
+
+![image](https://user-images.githubusercontent.com/78243487/161055567-17e1b326-d166-4580-bdb1-a48f6f558475.png)
 
 
 
