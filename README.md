@@ -90,6 +90,10 @@ Converte
 
 ![image](https://user-images.githubusercontent.com/78243487/161056699-ccaa03a9-77de-4acd-90fa-eb3aa15ac660.png)
 
+# Converter Tupla para Lista
+Converte
+
+![image](https://user-images.githubusercontent.com/78243487/161059176-0de941f6-0af0-4a04-9689-a4ada617053a.png)
 
 
 
