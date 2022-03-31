@@ -54,6 +54,11 @@ Procura um valor na lista
 Multiplica os valores de uma Lista
 ![image](https://user-images.githubusercontent.com/78243487/160850284-9c4225f9-dc42-4acf-9f0f-5c326ee95075.png)
 
+# Incluir Elemento na Lista
+Inclui a palavra
+![image](https://user-images.githubusercontent.com/78243487/161049042-23b7e198-c97b-4048-b0c7-2db5f9d0eff2.png)
+
+
 
 
 
