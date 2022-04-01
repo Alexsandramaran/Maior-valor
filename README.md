@@ -110,7 +110,10 @@ Junta apenas os elementos que tem nos dois conjuntos
 
 ![image](https://user-images.githubusercontent.com/78243487/161068246-bec6a1c6-b3e1-481f-88c0-dea326b4fe7c.png)
 
+# Duplicidade Lista
+Retira o valor que está em duplicidade
 
+![image](https://user-images.githubusercontent.com/78243487/161344838-c4c94bde-5b06-4462-93ba-a93cb53c23fa.png)
 
 
 
